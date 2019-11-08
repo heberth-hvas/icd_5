@@ -73,7 +73,7 @@ comparar = """
   """
 sql4 = pandasql.sqldf(comparar)
 
-gmaps.configure(api_key='AIzaSyCuECVMLeJG3JQgLrYOlsBRRgStD-wrktY')
+gmaps.configure(api_key='AIza....')#A API KEY foi removida para não ser utilizado para outros fins
 locations = sql4[['lat', 'long']]
 relats = sql4['Relatos']
 fig = gmaps.figure()
