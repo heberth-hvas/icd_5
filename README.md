@@ -1,9 +1,10 @@
 # icd_5
-##Atividade para a matéria de Introdução à Ciências de Dados
 
-##Professor: Fábio Henrique Oliveira M. Oliveira
+#Atividade para a matéria de Introdução à Ciências de Dados
 
-##Instituição: Instituto Federal de Brasília - Campus Brasília
+#Professor: Fábio Henrique Oliveira M. Oliveira
+
+#Instituição: Instituto Federal de Brasília - Campus Brasília
 
 Parte 01: Script da coleta
 
