@@ -2,7 +2,7 @@
 
 #Atividade para a matéria de Introdução à Ciências de Dados
 
-#Professor: Fábio Henrique Oliveira M. Oliveira
+#Professor: Fábio Henrique M. Oliveira
 
 #Instituição: Instituto Federal de Brasília - Campus Brasília
 
